@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Iris Species Classification</string>
+    <string name="sepal_length">Sepal Length (in cm):</string>
+    <string name="sepal_width">Sepal Width (in cm):</string>
+    <string name="petal_length">Petal Length (in cm):</string>
+    <string name="petal_width">Petal Width (in cm):</string>
+    <string name="button_text">Find Species</string>
+    <string name="species_show_ph">This is where species will be shown.</string>
+</resources>

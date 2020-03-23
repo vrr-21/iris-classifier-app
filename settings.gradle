@@ -1,0 +1,2 @@
+rootProject.name='Iris Species Classification'
+include ':app'
